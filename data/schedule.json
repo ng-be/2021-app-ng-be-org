@@ -27,7 +27,7 @@
 				"id": "1",
 				"firstName": "Michael",
 				"name": "Hladky",
-				"picture": "https://camo.githubusercontent.com/6d47c99b440ab9df88301ad7641c16e3a2d25a156b4ea89023a6be683f73edc5/68747470733a2f2f692e696d6775722e636f6d2f695134714768682e6a7067"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/Michael_Hladky.jpeg?alt=media&token=d0e55bc6-80b5-4796-a10d-b887a5bb4d00"
 			}
 		],
 		"takeaways": [
@@ -53,7 +53,7 @@
 				"id": "3",
 				"firstName": "Katerina",
 				"name": "Skroumpelou",
-				"picture": "https://i.imgur.com/NxNwARH.jpg"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/psybercity.jpeg?alt=media&token=0f57ce59-30b0-42b3-a8cc-04657042d8ca"
 			}
 		],
 		"takeaways": [
@@ -78,7 +78,7 @@
 				"id": "3",
 				"firstName": "Stefan",
 				"name": "Baumgartner",
-				"picture": "https://fettblog.eu/wp-content/uploads/stefan-grayscale-tailored.jpeg"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/ddprrt.jpeg?alt=media&token=ca3c7228-e64d-49f0-9166-1b99e9c00a26"
 			}
 		]
 	},
@@ -110,7 +110,7 @@
 				"id": "4",
 				"firstName": "Philippe",
 				"name": "De Ryck",
-				"picture": "https://uc228dedfbde185e61619d9ddbc7.previews.dropboxusercontent.com/p/thumb/ABUgmc01i6Ueqsx0Sx3LMNZUVtw-Eo5Ik0AmQoQ1L08hSyZa78koAi9pAPPCeKwkRGuR5mPpl0z1cyvzEiUiQdowDk74FBMdE-9fxW9A1Z_3gVf9KkcNEjf-SmUlFqBIlirIp_-KzPu1M4G_6NhGhL--uiTgz5dLZ6Wq7vYXVcyERlsOEZzqolKiDwZz5VdYXsy3GPmJKmm95Sh4DZ2Htz9UNf_QqolRTU6UTYLWEWn9YoUrKRbEAXGTVpR6tISuf4U8wiqSXjuDpYQqnHMT2MNpDaP9DAhie6iDcLDPNe9mXF14bDHv_bs3h2WC5-6CK3uvD6P_8DWkWlkOZpEJn8B0Yd8ar4m9ikelsgG-gQHdDNiQ_c-16rxwLM088-oKuR8/p.jpeg"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/philippederyck.jpeg?alt=media&token=c19f69b8-68c0-4020-9d35-ff166650e180"
 			}
 		],
 		"takeaways": [
@@ -152,7 +152,7 @@
 				"id": "6",
 				"firstName": "Sander",
 				"name": "Elias",
-				"picture": "https://avatars.githubusercontent.com/u/1249083"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/esosanderelias.jpeg?alt=media&token=b0e6e0db-9f9f-4632-9785-4c6625df49f5"
 			}
 		],
 		"takeaways": []
@@ -193,7 +193,7 @@
 				"id": "7",
 				"firstName": "Manfred",
 				"name": "Steyer",
-				"picture": "https://www.angulararchitects.io/wp-content/uploads/2019/04/manfred-steyer.jpg"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/manfred-steyer.jpeg?alt=media&token=87cdc888-1c33-4e57-b1e1-26eda1b19950"
 			}
 		],
 		"takeaways": []
@@ -210,7 +210,7 @@
 				"id": "8",
 				"firstName": "Pete",
 				"name": "Bacon Darwin",
-				"picture": "https://lh3.googleusercontent.com/pw/AM-JKLWh6Is_rdirZF4sxv_TJtDSpK5YlXQ4YM5KBt3OicPp6_k1JtGEcyLSVhxO6FvlsZNtWch2x8Y9utWvbK19I7i-Hi15M4GGMw88xVuRnLQ-hCRMHaF67J4yu_91d-mJRJ8Ajc_r_JcL68ARnUoVS4V0WA=w1146-h1528-no"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/petebd.jpeg?alt=media&token=5b66e9bb-74ed-4e0a-a4a3-5a4881f48221"
 			}
 		],
 		"takeaways": []
@@ -227,7 +227,7 @@
 				"id": "9",
 				"firstName": "Joost",
 				"name": "Koehoorn",
-				"picture": "https://files.slack.com/files-pri/T040VPWEE-F01BJN99P8D/image_from_ios.jpg?pub_secret=9eb6c8f869"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/JoostK.jpeg?alt=media&token=bc2aa749-1e8c-4279-bb75-74663c411534"
 			}
 		]
 	},
@@ -259,7 +259,7 @@
 				"id": "10",
 				"firstName": "Jeff",
 				"name": "Cross",
-				"picture": "https://static.wixstatic.com/media/3081d4_343964d903c148b09f3dbddadd6100b9~mv2.jpg/v1/fill/w_557,h_560,al_c,lg_1,q_80/Image-empty-state.webp"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/jeffbcross.webp?alt=media&token=e5a97bcd-9be8-4eb9-befc-6f0eb1e26f2a"
 			}
 		],
 		"takeaways": [
@@ -281,7 +281,7 @@
 				"id": "11",
 				"firstName": "Sam",
 				"name": "Bellen",
-				"picture": "https://uc0e6716ae5747b9e3a4c830577d.previews.dropboxusercontent.com/p/thumb/ABX5rymfge7cT_0xVvdtYYnhnNuk3nmwjMrpybntngUrzIRMSqkoM2cfH5Q9S0L_GeFoZ3F-Enfbv_3IblQa6h5s3DE6oMdDr-3gyk3ZQIXt-X3Fc0R61OZ01F2txcBqrVC3FdUI5PSx1ac-teQXIdqZVFjXv5YTeHNLsyOhnpr2tFYs_qDLsoZ8UmKmsG5t_tw5KRcYV1a6PvGXBO4uHuGXi2Erz01nJDED4cTevzMePuZcEQi2vbfZOZp40kueP8GCGgkh7hFYBALwQaYG3nnOgk5EnGgh8mMmHueibz3Zwy0cSUXqwD7WzG5EyC-8aEUUQX80lR6a_Gy3U0WFU4OQta0TxvIpEblnoWj7f_FbNVAcGUrhcxXG-ksr0Pp0XPk/p.jpeg"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/sambego.jpeg?alt=media&token=c2a22b61-be56-442a-a3da-c73535964792"
 			}
 		],
 		"takeaways": [
@@ -301,7 +301,7 @@
 				"id": "12",
 				"firstName": "Igor",
 				"name": "Minar",
-				"picture": "https://lh3.googleusercontent.com/pw/AM-JKLVk56zZJe2iPovvZH3fGO_U1tvedibUWif-qp8OXCMN9JvKZem47ae30QIRxGrdUl4RrjtUiw5_htw-DxKvNZtboxngzRpd9GYCUvl5I7yqcdWa9hIvLJECry2guisRRXtzf_pva9P6ciMgJEiHmlG9Qw=s1446-no?authuser=0"
+				"picture": "https://firebasestorage.googleapis.com/v0/b/app-ng-be-org-d6efc.appspot.com/o/IgorMinar.png?alt=media&token=f0e71958-9dfe-4262-a972-1fb2a3a26812"
 			}
 		],
 		"takeaways": [
