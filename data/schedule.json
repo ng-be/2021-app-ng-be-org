@@ -200,7 +200,7 @@
 	},
 	{
 		"id": "15",
-		"title": "JavaScript - Generations",
+		"title": "JavaScript - Generators",
 		"description": "<p>Generators are a cool feature of JavaScript, available since ES6, which many developers either aren't aware of or don't understand. This talk will introduce you to some of the possibilities that generators bring to the table.</p>",
 		"startDate": "2021-12-03T15:05:00+01:00",
 		"endDate": "2021-12-03T15:25:00+01:00",
